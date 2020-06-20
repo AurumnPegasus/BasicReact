@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+}
+
+#numberpad {
+    width: 15vw;
+    height: 36vh;
+    background-color: #3a3a3b;
+    margin-left: 40vw;
+    margin-right: 40vw;
+    opacity: 0.6;
+}
+
+.numbers {
+    background-color: #5b5b5c;
+    align-items: center;
+    justify-items: center;
+    height: 6vh;
+    width: 5vw;
+    margin-top: 0;
+    margin-left: 0;
+}
+
+.text {
+    color: white;
+    text-align: center;
+}
+
+#equation {
+    background-color: #e6e6eb;
+    color: black;
+    width: 15vw;
+    height: 2vh;
+    margin-left: 40vw;
+    margin-right: 40vw;
+    text-align: right;
+}
+
+#answer {
+    background-color: #ffffff;
+    color: black;
+    width: 15vw;
+    height: 4vh;
+    margin-top: 25vh;
+    margin-left: 40vw;
+    margin-right: 40vw;
+    text-align: right;
+}
